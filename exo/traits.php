@@ -8,7 +8,7 @@ class TraitBonjour{
 
 trait LeMonde {
 
-    public function Bonjour(){git init
+    public function Bonjour(){
         parent::Bonjour();
         echo " le monde";
     }
